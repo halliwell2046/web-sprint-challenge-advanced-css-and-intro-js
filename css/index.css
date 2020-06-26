@@ -147,6 +147,11 @@ button:hover{
         margin: 0 10%;
     }
 
+    nav a:hover {
+        background-color: black;
+        font-weight: bold;
+    }
+
     h1 {
         display: flex;
         justify-content: center;
@@ -158,24 +163,19 @@ button:hover{
         display: flex;
         justify-content: center;
         width: 100%;
-        height: 25vh;
+        height: 25%;
     }
 
     button {
         font-size: 1.5rem;
     }
 
-    hr {
-        margin-bottom: 10px;
-    }
-
     .artists-container{
         display: flex;
         flex-direction: column;
-        width: 250vw;
+        width: 250%;
         justify-content: space-evenly;
         height: 50%;
-        margin-top: 65%;
     }
 
     .artist img {
