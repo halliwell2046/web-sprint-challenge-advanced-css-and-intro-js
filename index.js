@@ -230,9 +230,11 @@ console.log(corrName(artists, 8, 'Vincent Van Gogh'));
  * it will return `The artist at index 0 is Amedeo Modigliani`.
 */
 function getArtistByIndex(array, index) {
-    /* code here */
+    return `The artist at index ${index} is ${array[index].name}`
   }
   
+  console.log(getArtistByIndex(artists, 0))
+  console.log(getArtistByIndex(artists, 9))
   /**
 
 
