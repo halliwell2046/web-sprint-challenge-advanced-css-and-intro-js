@@ -28,6 +28,9 @@ acessibility makes it easier and more user friendly for those with dissabilities
 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
 
+alt tags for images using text to explain what the image is for the visually impaired they can click the image and the text will be read to them.
+the ability to resize text so that individuals that are visually impaired can adjust the screen to their needs and are able to read the content.
+responsiveness for mobile devices, for all, no one wants to look at a full page website that they have to scroll left to right on.
 
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
