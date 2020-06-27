@@ -286,13 +286,16 @@ bio: Add 1-2 sentences (or use lorem ipsum)
 
 At the end, this function should return the new array with information added"*/
 
-function addArtist(/* Code here */){
+function addArtist(art_id, art_name, art_years, art_genre, art_natonality, art_bio){
 
-    /* Code here */
-
+    artists.push({id: art_id, name: art_name, art_years, art_genre, art_natonality, art_bio});
+    return artists;
   }
 
-/* Task 7: Create a function called lotsOfArt() that takes one argument: 
+  console.log(addArtist(20, "Alice Frazier", "1979-2020", "Web Design", "Scottish", "Cupcake ipsum dolor. Sit amet croissant jelly cake sweet fruitcake croissant. Jelly-o marzipan ice cream jelly-o chocolate cake cake jelly beans soufflé wafer. I love tiramisu marzipan gummies jelly-o brownie."))
+
+
+  /* Task 7: Create a function called lotsOfArt() that takes one argument: 
 
     (1) artists array 
 
