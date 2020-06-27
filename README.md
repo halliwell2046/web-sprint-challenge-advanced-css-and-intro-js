@@ -33,6 +33,9 @@ the ability to resize text so that individuals that are visually impaired can ad
 responsiveness for mobile devices, for all, no one wants to look at a full page website that they have to scroll left to right on.
 
 3. How would you explain the concept of a variable to someone new to programming?
+
+A variable is a way to identify data your code, but it can be renamed.
+
 4. What is the purpose of using functions in code?
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
