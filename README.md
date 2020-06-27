@@ -38,6 +38,8 @@ A variable is a way to identify data your code, but it can be renamed.
 
 4. What is the purpose of using functions in code?
 
+functions are code that can be used over and over again, a functions does something i.e. calls data, calculates date, etc.
+
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
